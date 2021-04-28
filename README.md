@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @afsana21
 - 👀 I’m interested in computer
 - 🌱 I’m currently student
-- 📫 https://www.linkedin.com/in/afsana-akter-47967320b
+- 📫 https://www.linkedin.com/in/afsana-akter-47697320b
 
 <!---
 afsana21/afsana21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
